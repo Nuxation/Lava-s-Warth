@@ -1,3 +1,0 @@
-#define FOLDER_NAME "LavasWrath"
-
-#define DISPLAY_MODE DISPLAY_MODE_RGB565
