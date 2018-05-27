@@ -1,4 +1,4 @@
-# Lava's Warth
+# Lava's Wrath
 
 
 Type: Snake-like
